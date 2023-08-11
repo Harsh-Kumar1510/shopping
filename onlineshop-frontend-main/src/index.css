@@ -1,0 +1,9 @@
+
+main{
+  min-height: 70vh;
+}
+.app-container {
+  margin-top: 50px; /* Adjust the margin top value based on your header height */
+  margin-bottom: 5px;
+  padding-bottom: 10px; /* Adjust the padding bottom value based on your footer height */
+}

@@ -1,0 +1,75 @@
+/* .home-screen {
+    background-color: #F8F9FA;
+    padding: 20px;
+    color: #333;
+  }
+  
+  .electronics-screen {
+    margin-bottom: 20px;
+  }
+  
+  .latest-products-heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .scroll-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .scroll-button {
+    display: inline-block;
+    border: none;
+    background-color: transparent;
+    color: #333;
+    font-size: 20px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .scroll-button:hover {
+    color: #888;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .product-card {
+    border: none;
+    background-color: #FFF;
+    margin: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-3px);
+  }
+  
+  .image-container {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .image-container img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+  
+  .product-name {
+    margin-top: 10px;
+  }
+  
+  .rating {
+    color: #f8e825;
+  }
+   */

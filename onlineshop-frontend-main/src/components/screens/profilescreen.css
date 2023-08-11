@@ -1,0 +1,24 @@
+.profile-screen {
+    background-color: wheat;
+    margin: 0;
+    padding: 20px;
+    opacity: 0.95;
+    z-index: -1;
+  }
+  
+  .profile-screen h2 {
+    margin-bottom: 20px;
+  }
+  
+  .profile-screen .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .profile-screen .btn-primary {
+    margin-top: 10px;
+  }
+  
+  .profile-screen .table-sm {
+    margin-top: 20px;
+  }
+  
